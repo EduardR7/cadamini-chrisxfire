@@ -22,8 +22,9 @@ title: Chris Codes .NET
 email: chris@chriscodes.net
 description: >- # this means to ignore newlines until "baseurl:"
   ...description...
-baseurl: "" # the subpath of your site, e.g. /blog
+domain: "chrisxfire.github.io"
 url: "http://chrisxfire.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # twitter_username: jekyllrb
 github_username:  chrisxfire # was jekyll
