@@ -1,16 +1,14 @@
-title: testing midnight theme...
+title: testing hacker theme...
 email: email@example.com
 description: ...description...
 domain: "chrisxfire.github.io"
 url: "http://chrisxfire.github.io"
+github_username:  chrisxfire # was jekyll
 
 # Build settings
-# theme: jekyll-theme-midnight
+# theme: jekyll-theme-hacker
 
 remote-theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-feed
 - jekyll-remote-theme
-
-# twitter_username: jekyllrb
-# github_username:  chrisxfire # was jekyll
