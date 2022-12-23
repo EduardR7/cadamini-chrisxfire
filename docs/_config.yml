@@ -1,4 +1,4 @@
-title: testing minimal theme...
+title: testing midnight theme...
 email: email@example.com
 description: ...description...
 domain: "chrisxfire.github.io"
@@ -8,7 +8,7 @@ url: "http://chrisxfire.github.io"
 github_username:  chrisxfire # was jekyll
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
 
 # remote-theme: pages-themes/midnight@v0.2.0
 plugins:
