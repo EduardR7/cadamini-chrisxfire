@@ -10,7 +10,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  chrisxfire # was jekyll
 
 # Build settings
-# theme: midnight
+theme: jekyll-theme-midnight
 
 # remote-theme: jekyll-theme-midnight
 plugins:
