@@ -4,13 +4,13 @@ description: ...description...
 domain: "chrisxfire.github.io"
 url: "http://chrisxfire.github.io"
 
-# twitter_username: jekyllrb
-github_username:  chrisxfire # was jekyll
-
 # Build settings
-theme: jekyll-theme-midnight
+theme: minima
 
 # remote-theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-feed
 - jekyll-remote-theme
+
+# twitter_username: jekyllrb
+# github_username:  chrisxfire # was jekyll
