@@ -1,8 +1,8 @@
 title: testing hacker theme...
 email: email@example.com
 description: ...description...
-domain: "chrisxfire.github.io"
-url: "http://chrisxfire.github.io"
+domain: chrisxfire.github.io
+url: http://chrisxfire.github.io
 github_username:  chrisxfire # was jekyll
 
 # Build settings
