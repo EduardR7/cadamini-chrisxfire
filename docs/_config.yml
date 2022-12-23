@@ -8,7 +8,7 @@ github_username:  chrisxfire # was jekyll
 # Build settings
 # theme: jekyll-theme-hacker
 
-remote-theme: pages-themes/midnight@v0.2.0
+remote-theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-feed
 - jekyll-remote-theme
