@@ -5,7 +5,7 @@ domain: "chrisxfire.github.io"
 url: "http://chrisxfire.github.io"
 
 # twitter_username: jekyllrb
-# github_username:  chrisxfire # was jekyll
+github_username:  chrisxfire # was jekyll
 
 # Build settings
 theme: minima
