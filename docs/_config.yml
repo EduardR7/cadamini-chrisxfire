@@ -30,8 +30,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  chrisxfire # was jekyll
 
 # Build settings
-# theme: minima
-remote-theme: pages-themes/midnight@v0.2.0
+theme: minima
+# remote-theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
