@@ -1,4 +1,4 @@
-title: testing hacker theme...
+title: testing default theme...
 email: email@example.com
 description: ...description...
 domain: chrisxfire.github.io
@@ -6,9 +6,9 @@ url: http://chrisxfire.github.io
 github_username:  chrisxfire # was jekyll
 
 # Build settings
-# theme: jekyll-theme-hacker
+theme: minima
 
-remote-theme: pages-themes/hacker@v0.2.0
+# remote-theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-feed
 - jekyll-remote-theme
