@@ -5,9 +5,9 @@ domain: "chrisxfire.github.io"
 url: "http://chrisxfire.github.io"
 
 # Build settings
-theme: jekyll-theme-midnight
+# theme: jekyll-theme-midnight
 
-# remote-theme: pages-themes/midnight@v0.2.0
+remote-theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-feed
 - jekyll-remote-theme
