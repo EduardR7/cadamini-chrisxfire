@@ -5,7 +5,7 @@ domain: chrisxfire.github.io
 url: http://chrisxfire.github.io
 github_username:  chrisxfire
 
-remote-theme: pages-themes/midnight@v0.2.0
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
-- jekyll-feed
 - jekyll-remote-theme
+- jekyll-feed
